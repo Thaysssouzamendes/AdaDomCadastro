@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.invalid-feedback {
+    color: #dc3545;
+}
+
+
+/* Estilos para o botão */
+.col-md-12 {
+    margin-top: 20px; /* Espaçamento superior para separar o botão do formulário */
+    margin-left: 175px;
+  }
+  
+  .btn-primary {
+    width: 10%; /* Ocupa toda a largura do contêiner */
+  }
+  
+
+input:invalid {
+    border-color: #3538dc;
+}
+
+
+input[type="text"],
+input[type="password"],
+input[type="date"] {
+    border-radius: 0;
+}
