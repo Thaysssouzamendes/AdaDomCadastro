@@ -7,10 +7,11 @@ Desenvolver, utilizando os conceitos abordados ao longo do módulo, uma aplicaç
 # Requisitos
 Dentre as funcionalidades, espera-se que seja possível:
 
-Adicionar uma tarefa
-Editar uma tarefa salva
-Remover uma tarefa salva
-Listar todas as tarefas salvas
+- Adicionar uma tarefa
+- Editar uma tarefa salva
+- Remover uma tarefa salva
+- Listar todas as tarefas salvas
+- 
 Além do CRUD de tarefas, espera-se que:
 
 No formulário de cadastro e edição, sejam validados os dados inseridos nos campos, quanto à obrigatoriedade, e demais validações que julgarem necessárias
