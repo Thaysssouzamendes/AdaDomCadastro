@@ -11,7 +11,7 @@ Dentre as funcionalidades, espera-se que seja possível:
 - Editar uma tarefa salva
 - Remover uma tarefa salva
 - Listar todas as tarefas salvas
-- 
+  
 Além do CRUD de tarefas, espera-se que:
 
 No formulário de cadastro e edição, sejam validados os dados inseridos nos campos, quanto à obrigatoriedade, e demais validações que julgarem necessárias
